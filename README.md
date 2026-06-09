@@ -59,9 +59,8 @@ Assets/
 │
 ├── Prefabs/
 ├── Materials/
-├── Audio/
 ├── Scenes/
-└── UI/
+
 ```
 
 ---
